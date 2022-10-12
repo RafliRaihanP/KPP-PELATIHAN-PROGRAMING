@@ -1,2 +1,0 @@
-# KPP-PELATIHAN-PROGRAMING
-Tugas UKM Robotik
